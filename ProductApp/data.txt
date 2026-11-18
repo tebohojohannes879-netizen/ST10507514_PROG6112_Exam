@@ -1,0 +1,29 @@
+DATA LOG
+******************************************
+Customer Name Teboho
+Product Cozy Nights Monarch
+VAT R 675.0
+COMMISSION R 225.0
+TOTAL R 5400.0
+******************************************
+******************************************
+Customer Name Teboho
+Product Cozy Nights Monarch
+VAT R 675.0
+COMMISSION R 225.0
+TOTAL R 5400.0
+******************************************
+******************************************
+Customer Name Teboho
+Product Restonic Barbados
+VAT R 675.0
+COMMISSION R 225.0
+TOTAL R 5400.0
+******************************************
+******************************************
+Customer Name Teboho
+Product Restonic Barbados
+VAT R 675.0
+COMMISSION R 225.0
+TOTAL R 5400.0
+******************************************
